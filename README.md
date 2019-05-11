@@ -1,0 +1,3 @@
+# photos2_heroku_dockerfile
+
+herokuにデプロイするためのdockerfile
