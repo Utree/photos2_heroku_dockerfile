@@ -3,6 +3,7 @@
 herokuにデプロイするためのdockerfile
 
 ```
+$ heroku login
 $ heroku create
 $ heroku container:push web -a <APP NAME>
 $ heroku container:release web -a <APP NAME>
